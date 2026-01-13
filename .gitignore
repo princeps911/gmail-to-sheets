@@ -1,0 +1,47 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+coverage.xml
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Credentials & sensitive files - VERY IMPORTANT!
+credentials/*
+!credentials/.gitkeep   # optional empty file to keep the folder
+
+# IDE & editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Project-specific temp files
+*.json.bak
+state.json.bak
