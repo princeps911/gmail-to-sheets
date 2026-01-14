@@ -98,7 +98,7 @@ All screenshots are in the [/proof/ folder](./proof/)
 
 ### Demo Video
 Watch the 2-minute demo video:  
-[Project Demo - Gmail to Sheets Automation](https://youtu.be/YOUR_VIDEO_ID_HERE)  
+[Project Demo - Gmail to Sheets Automation](https://youtu.be/lQrdWdWce2M?si=8xjGPp7p12-Sjc1N)  
 (or Google Drive link)
 
 Video shows:
