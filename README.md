@@ -86,3 +86,23 @@ No support for spam/trash/deleted emails
 Rate limited by Google APIs (usually not an issue for personal use)
 Requires your computer to run the script (no cloud hosting in current version)
 First run fetches last 7 days (fallback) if no state exists
+
+## Proof of Execution
+
+### Screenshots
+All screenshots are in the [/proof/ folder](./proof/)
+
+- Gmail inbox before processing
+- Google Sheet with multiple rows added
+- OAuth consent screen
+
+### Demo Video
+Watch the 2-minute demo video:  
+[Project Demo - Gmail to Sheets Automation](https://youtu.be/YOUR_VIDEO_ID_HERE)  
+(or Google Drive link)
+
+Video shows:
+- Project overview
+- Live run of the script
+- Data appearing in Google Sheet
+- Duplicate prevention on second run
